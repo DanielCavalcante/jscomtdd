@@ -4,6 +4,7 @@
   "description": "Prática do curso de JS com TDD ",
   "main": "index.js",
   "scripts": {
+    "lint": "./node_modules/.bin/eslint src/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/DanielCavalcante/jscomtdd/issues"
   },
-  "homepage": "https://github.com/DanielCavalcante/jscomtdd#readme"
+  "homepage": "https://github.com/DanielCavalcante/jscomtdd#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
 }
