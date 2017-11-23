@@ -1,0 +1,25 @@
+{
+  "name": "jscomtdd",
+  "version": "1.0.0",
+  "description": "Prática do curso de JS com TDD ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCavalcante/jscomtdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "eslint"
+  ],
+  "author": "Daniel Cavalcante <danielcdesouza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielCavalcante/jscomtdd/issues"
+  },
+  "homepage": "https://github.com/DanielCavalcante/jscomtdd#readme"
+}
